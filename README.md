@@ -46,8 +46,9 @@ This repository contains various C programs designed to solve specific problems.
 
 ## word_speller.c
 
-![Word Speller](https://github.com/Baniya-sen/C-Lang-Algo-Sets/assets/144620117/770508cc-684a-4362-8afc-4590b6f29324)
-![spell c check](https://github.com/Baniya-sen/C-Lang-Algo-Sets/assets/144620117/a867c2be-dc22-4136-969d-3ea86dfc897f)
+- ![Word Speller](https://github.com/Baniya-sen/C-Lang-Algo-Sets/assets/144620117/770508cc-684a-4362-8afc-4590b6f29324)
+  
+- ![spell c check](https://github.com/Baniya-sen/C-Lang-Algo-Sets/assets/144620117/a867c2be-dc22-4136-969d-3ea86dfc897f)
 
 
 ### Description:
